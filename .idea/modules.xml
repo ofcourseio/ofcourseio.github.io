@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ofcourseio.github.io.iml" filepath="$PROJECT_DIR$/.idea/ofcourseio.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ofcourseio.iml" filepath="$PROJECT_DIR$/ofcourseio.iml" />
     </modules>
   </component>
 </project>

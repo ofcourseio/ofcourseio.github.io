@@ -1,0 +1,63 @@
+name: OF COURSE创意编程
+description: 想当然微信文章集锦
+avatar: /assets/img/logo.jpg
+
+footer-links:
+  dribbble:
+  github: ofcourseio
+  linkedin: of-course
+  facebook: ofcourse.io
+  flickr:
+  instagram:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: ofcourseio
+  tumblr: ofcourseio
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  email: info@ofcourse.io
+  weibo: ofcouseshanghai
+  wechat:
+  lofter: ofcourseio
+
+
+duoshuo: ofcourse
+disqus:
+google_analytics: UA-77283988-1
+
+url: ''
+enforce_ssl: ''
+
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  enable_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers: inline
+
+version: v1.1.0
+
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME

@@ -1,4 +1,8 @@
-# OF COURSE创意编程
+---
+layout: page
+title: 关于我们
+permalink: /about/
+---
 
 ![](https://coding.net/u/onlylemi/p/img/git/raw/master/of_logo1.jpg)
  
@@ -9,3 +13,11 @@ OF COURSE是艺术，媒体和科技的交叉点。创立于美国纽约，由�
 * **Website**：[www.ofcourse.io](http://www.ofcourse.io)
 * **Email**：[info(AT)ofcourse.io](mailto:info@ofcourse.io)
 * **Telephone**：400 686 1514
+
+
+---
+
+<div id="comments" class="comments">
+   <h3>Message</h3>
+   {% include duoshuo.html %}
+</div>
