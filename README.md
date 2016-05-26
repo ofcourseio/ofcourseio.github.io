@@ -6,4 +6,4 @@
 
 * **Website**：[www.ofcourse.io](http://www.ofcourse.io)
 * **Email**：[info(AT)ofcourse.io](mailto:info@ofcourse.io)
-* **Telephone**：400 686 1514
+* **Phone**：400-686-1514
